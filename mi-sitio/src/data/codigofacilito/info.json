@@ -1,0 +1,627 @@
+{
+    "data": {
+      "email": "lucasm.alderete@gmail.com",
+      "username": "lucasalderete",
+      "certificates": [
+        
+      ],
+      "articles": [
+        
+      ],
+      "courses": [
+        {
+          "title": "Curso de TypeScript",
+          "progress": "4.0",
+          "url": "http://codigofacilito.com/courses/typescript"
+        },
+        {
+          "title": "Curso profesional de Angular",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/angular-profesional"
+        },
+        {
+          "title": "Crea una app del clima con Angular",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/angular-app-del-clima"
+        },
+        {
+          "title": "Curso gratuito de NgRX",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/ngrx"
+        },
+        {
+          "title": "Curso de programación concurrente en Python",
+          "progress": "2.0",
+          "url": "http://codigofacilito.com/courses/python-concurrente"
+        },
+        {
+          "title": "Curso para desarrollo de apps con React Native",
+          "progress": "11.0",
+          "url": "http://codigofacilito.com/courses/react-native"
+        },
+        {
+          "title": "Curso profesional de C#",
+          "progress": "2.0",
+          "url": "http://codigofacilito.com/courses/csharp-profesional"
+        },
+        {
+          "title": "Crea un sitio personal con Gatsby",
+          "progress": "53.0",
+          "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+        },{
+          "title": "Curso de Arduino 2013",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/Arduino"
+        },
+        {
+          "title": "Curso Visual Basic .NET Gratis",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/VB-NET"
+        },
+        {
+          "title": "Curso de PHP Básico Gratis (2011)",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/PHP"
+        },
+        {
+          "title": "Curso de Bases de Datos Gratis",
+          "progress": "6.0",
+          "url": "http://codigofacilito.com/courses/bases_datos"
+        },
+        {
+          "title": "Curso de Ruby on Rails 3 Gratuito",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/rails3"
+        },
+        {
+          "title": "Curso de creación de videojuegos con Unity",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/unity"
+        },
+        {
+          "title": "Curso de Yii Framework Gratis",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/Yii"
+        },
+        {
+          "title": "Curso de JAVA Básico Gratis",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/JAVA"
+        },
+        {
+          "title": "Curso de Desarrollo de API's",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/api"
+        },
+        {
+          "title": "Curso de Desarrollo Tiendas en línea",
+          "progress": "2.0",
+          "url": "http://codigofacilito.com/courses/desarrollo-ecommerce"
+        },
+        {
+          "title": "Curso de Diseño Web Frontend",
+          "progress": "2.0",
+          "url": "http://codigofacilito.com/courses/frontend_w"
+        },
+        {
+          "title": "Conceptos intermedios de Android",
+          "progress": "53.0",
+          "url": "http://codigofacilito.com/courses/android-premium"
+        },
+        {
+          "title": "Curso de HTML5 Avanzado",
+          "progress": "4.0",
+          "url": "http://codigofacilito.com/courses/html5_avanzado"
+        },
+        {
+          "title": "Curso de Material Design Android",
+          "progress": "12.0",
+          "url": "http://codigofacilito.com/courses/material-design-android"
+        },
+        {
+          "title": "Curso de NodeJS Gratis",
+          "progress": "40.0",
+          "url": "http://codigofacilito.com/courses/nodejs"
+        },
+        {
+          "title": "Curso de AngularJS Gratis",
+          "progress": "33.0",
+          "url": "http://codigofacilito.com/courses/angularjs"
+        },
+        {
+          "title": "Curso para crear tu primera página web Gratis",
+          "progress": "34.0",
+          "url": "http://codigofacilito.com/courses/primera_pagina"
+        },
+        {
+          "title": "Curso de Android Gratis",
+          "progress": "30.0",
+          "url": "http://codigofacilito.com/courses/android"
+        },
+        {
+          "title": "Curso Backend: Crea una red social",
+          "progress": "3.0",
+          "url": "http://codigofacilito.com/courses/backend-2016"
+        },
+        {
+          "title": "Curso de SEO: Aprende a posicionar tu sitio en buscadores",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/seo"
+        },
+        {
+          "title": "Aplicaciones web con MVC  .NET",
+          "progress": "32.0",
+          "url": "http://codigofacilito.com/courses/aplicaciones-web-con-mvc-5-de-net"
+        },
+        {
+          "title": "Curso de inteligencia para juegos",
+          "progress": "3.0",
+          "url": "http://codigofacilito.com/courses/juegos_ia"
+        },
+        {
+          "title": "Curso de Android Manejo de Datos",
+          "progress": "88.0",
+          "url": "http://codigofacilito.com/courses/android-manejo-de-datos"
+        },
+        {
+          "title": "Curso de Programación Básico: \"Nunca he Programado\"",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/nunca"
+        },
+        {
+          "title": "Curso de Desarrollo Web Frontend",
+          "progress": "40.0",
+          "url": "http://codigofacilito.com/courses/diseno-web-frontend-2016"
+        },
+        {
+          "title": "Crea una aplicación tipo Slack con Meteor",
+          "progress": "9.0",
+          "url": "http://codigofacilito.com/courses/crea-una-aplicacion-tipo-slack-con-meteor"
+        },
+        {
+          "title": "Curso de Pygame Gratis",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/pygame"
+        },
+        {
+          "title": "Curso de Introducción a HTML5 Gratis",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/HTML5"
+        },
+        {
+          "title": "Curso gratis de React",
+          "progress": "21.0",
+          "url": "http://codigofacilito.com/courses/curso-gratis-de-react"
+        },
+        {
+          "title": "Curso de javaScript Gratis",
+          "progress": "20.0",
+          "url": "http://codigofacilito.com/courses/javascript"
+        },
+        {
+          "title": "Estructuras de Datos",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/estructuras-de-datos-avanzadas"
+        },
+        {
+          "title": "Curso para crear una API con NodeJS",
+          "progress": "9.0",
+          "url": "http://codigofacilito.com/courses/node-bdd"
+        },
+        {
+          "title": "Curso para consumir servicios web con Android",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/android-webservices"
+        },
+        {
+          "title": "Curso de desarrollo vídeo juegos 2d con Unity",
+          "progress": "3.0",
+          "url": "http://codigofacilito.com/courses/unity-2d"
+        },
+        {
+          "title": "Android + Kinvey (Backend as a service)",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/android-kinvey"
+        },
+        {
+          "title": "Crea tu primera app de realidad aumentada",
+          "progress": "16.0",
+          "url": "http://codigofacilito.com/courses/realidad-aumentada"
+        },
+        {
+          "title": "Curso de CSS Básico a Avanzado",
+          "progress": "1.0",
+          "url": "http://codigofacilito.com/courses/css3_avanzado"
+        },
+        {
+          "title": "Curso para crear un sitio web en HTML5",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/Pagina-HTML5"
+        },
+        {
+          "title": "Crea una galería de imágenes en Android",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/galeria-android"
+        },
+        {
+          "title": "Introducción a webGL con Threejs",
+          "progress": "10.0",
+          "url": "http://codigofacilito.com/courses/webgl"
+        },
+        {
+          "title": "Crea un mini juego multijugador",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/crea-un-mini-juego-multijugador"
+        },
+        {
+          "title": "Subir archivos con AJAX y Drag\u0026Drop",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/archivos-dragdrop"
+        },
+        {
+          "title": "Curso de Android Wear",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/android-wear"
+        },
+        {
+          "title": "Curso de Introducción a JAVA EE Gratuito",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/jee"
+        },
+        {
+          "title": "Curso de Introducción a JAVA Swing Gratis",
+          "progress": "33.0",
+          "url": "http://codigofacilito.com/courses/javaswing"
+        },
+        {
+          "title": "Curso a fondo de HTML5",
+          "progress": "21.0",
+          "url": "http://codigofacilito.com/courses/html5-2017"
+        },
+        {
+          "title": "Desarrollo Web con Go",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/go-web"
+        },
+        {
+          "title": "Curso de Programación Orientada a Objetos con C#",
+          "progress": "28.0",
+          "url": "http://codigofacilito.com/courses/c_sharp"
+        },
+        {
+          "title": "Curso para crear un Juego de Naves en HTML5",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/Naves-HTML5"
+        },
+        {
+          "title": "Desarrollo de aplicaciones para iOs desde cero",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/ios"
+        },
+        {
+          "title": "Curso desarrollo de apps con Ionic v3",
+          "progress": "60.0",
+          "url": "http://codigofacilito.com/courses/ionic"
+        },
+        {
+          "title": "Curso para crear aplicaciones web progresivas 2017",
+          "progress": "39.0",
+          "url": "http://codigofacilito.com/courses/progressive"
+        },
+        {
+          "title": "Curso gratuito de Flask",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/flask"
+        },
+        {
+          "title": "Crea un bot para Facebook Messenger",
+          "progress": "66.0",
+          "url": "http://codigofacilito.com/courses/crea-un-bot-para-facebook-messenger"
+        },
+        {
+          "title": "Aprende a consumir el API de Facebook",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/facebook-api"
+        },
+        {
+          "title": "Curso de Git Gratis",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/git"
+        },
+        {
+          "title": "Chat 1:1 Firebase",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/chat-1-1-firebase"
+        },
+        {
+          "title": "Crea un chat server con Go",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/crea-un-chat-server-con-go"
+        },
+        {
+          "title": "Curso profesional de Aplicaciones Web con Rails 5.1",
+          "progress": "11.0",
+          "url": "http://codigofacilito.com/courses/aplicaciones-web"
+        },
+        {
+          "title": "Crea tu primera extensión de Chrome",
+          "progress": "20.0",
+          "url": "http://codigofacilito.com/courses/chrome-extension"
+        },
+        {
+          "title": "Crea una app tipo Trello con EmberJS",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/crea-una-app-tipo-trello-con-emberjs"
+        },
+        {
+          "title": "Promesas en javaScript",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/javascript-promises"
+        },
+        {
+          "title": "Curso de diseño para programadores",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/diseno-basico"
+        },
+        {
+          "title": "Material Design a fondo",
+          "progress": "16.0",
+          "url": "http://codigofacilito.com/courses/material-design-afondo"
+        },
+        {
+          "title": "Curso desarrollo apps nativas con NativeScript",
+          "progress": "2.0",
+          "url": "http://codigofacilito.com/courses/nativescript"
+        },
+        {
+          "title": "Curso de MongoDB",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/mongodb"
+        },
+        {
+          "title": "Aprende a consumir una API con Angular 2",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/angular-services"
+        },
+        {
+          "title": "Curso de controles y efectos Frontend",
+          "progress": "4.0",
+          "url": "http://codigofacilito.com/courses/controles-efectos-frontend"
+        },
+        {
+          "title": "Android Fragments",
+          "progress": "7.0",
+          "url": "http://codigofacilito.com/courses/android-fragments"
+        },
+        {
+          "title": "Curso de PHP orientado a objetos Gratis",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/php_oo"
+        },
+        {
+          "title": "App de registro de tiempos en Android",
+          "progress": "16.0",
+          "url": "http://codigofacilito.com/courses/app-registro-tiempos"
+        },
+        {
+          "title": "Curso de PHP Básico Gratis",
+          "progress": "14.0",
+          "url": "http://codigofacilito.com/courses/php7"
+        },
+        {
+          "title": "Curso para crear una tienda en línea con PHP y Laravel 2016",
+          "progress": "94.0",
+          "url": "http://codigofacilito.com/courses/ecommerce-php"
+        },
+        {
+          "title": "Curso de Laravel Gratis",
+          "progress": "17.0",
+          "url": "http://codigofacilito.com/courses/laravel"
+        },
+        {
+          "title": "Bytes",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/15"
+        },
+        {
+          "title": "Curso de Android con Firebase",
+          "progress": "3.0",
+          "url": "http://codigofacilito.com/courses/android-firebase"
+        },
+        {
+          "title": "Curso de C Básico Gratuito",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/c"
+        },
+        {
+          "title": "Curso de C++ Básico Gratis",
+          "progress": "3.0",
+          "url": "http://codigofacilito.com/courses/c-plus-plus"
+        },
+        {
+          "title": "Curso Profesional de JavaScript",
+          "progress": "68.0",
+          "url": "http://codigofacilito.com/courses/javascript-profesional"
+        },
+        {
+          "title": "Crea una app con Ionic y Firebase",
+          "progress": "75.0",
+          "url": "http://codigofacilito.com/courses/ionic-firebase"
+        },
+        {
+          "title": "Curso Profesional de Python",
+          "progress": "15.0",
+          "url": "http://codigofacilito.com/courses/python-profesional"
+        },
+        {
+          "title": "Curso Profesional de Android",
+          "progress": "1.0",
+          "url": "http://codigofacilito.com/courses/android-profesional"
+        },
+        {
+          "title": "Curso para crear Single Page Apps con React",
+          "progress": "32.0",
+          "url": "http://codigofacilito.com/courses/react-spa"
+        },
+        {
+          "title": "Curso Profesional Desarrollo Web",
+          "progress": "17.0",
+          "url": "http://codigofacilito.com/courses/frontend-profesional"
+        },
+        {
+          "title": "Curso de Angular",
+          "progress": "56.0",
+          "url": "http://codigofacilito.com/courses/angular"
+        },
+        {
+          "title": "Proyecto Avanzado de Desarrollo Web Frontend",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/pagina-profesional"
+        },
+        {
+          "title": "Curso de TypeScript",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/typescript"
+        },
+        {
+          "title": "Curso Profesional de Base de Datos",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/base-datos-profesional"
+        },
+        {
+          "title": "Curso para desarrollar Aplicaciones Web Progresivas",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/aplicaciones-web-progresivas"
+        },
+        {
+          "title": "Curso Profesional de Git",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/git-profesional"
+        },
+        {
+          "title": "Curso para desarrollar servicios web REST con Nodejs",
+          "progress": "1.0",
+          "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+        },
+        {
+          "title": "Crea una app web con Maps y Geolocalización",
+          "progress": "30.0",
+          "url": "http://codigofacilito.com/courses/crea-una-app-web-con-maps-y-geolocalizacion"
+        },
+        {
+          "title": "Desarrrolla una tienda en línea con Laravel y Vue",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/laravel-tienda-en-linea"
+        },
+        {
+          "title": "Curso de pagos con suscripción",
+          "progress": "3.0",
+          "url": "http://codigofacilito.com/courses/cobros-recurrentes"
+        },
+        {
+          "title": "Crea una app del clima con Angular",
+          "progress": "6.0",
+          "url": "http://codigofacilito.com/courses/angular-app-del-clima"
+        },
+        {
+          "title": "Curso profesional de Angular",
+          "progress": "95.0",
+          "url": "http://codigofacilito.com/courses/angular-profesional"
+        },
+        {
+          "title": "Curso de desarrollo de apps con Angular y Nativescript",
+          "progress": "4.0",
+          "url": "http://codigofacilito.com/courses/nativescript-angular"
+        },
+        {
+          "title": "Curso de Arduino Premium ",
+          "progress": "11.0",
+          "url": "http://codigofacilito.com/courses/arduino-premium-firebase"
+        },
+        {
+          "title": "Curso Profesional de Backend",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/backend-profesional"
+        },
+        {
+          "title": "Curso a fondo de CSS",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/css"
+        },
+        {
+          "title": "JavaScript y el DOM",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/javascript-dom"
+        },
+        {
+          "title": "Curso gratuito de NgRX",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/ngrx"
+        },
+        {
+          "title": "Crea tu propio Google Home con Raspberry Pi",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/google-home-raspberry-pi"
+        },
+        {
+          "title": "Curso profesional de C#",
+          "progress": "2.0",
+          "url": "http://codigofacilito.com/courses/csharp-profesional"
+        },
+        {
+          "title": "Curso de introducción y fundamentos de React",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/react"
+        }
+      ],
+      "finished_courses": [
+        {
+          "title": "Curso profesional de Angular",
+          "url": "http://codigofacilito.com/courses/angular-profesional"
+        },
+        {
+          "title": "Crea una app del clima con Angular",
+          "url": "http://codigofacilito.com/courses/angular-app-del-clima"
+        },
+              {
+          "title": "Curso Visual Basic .NET Gratis",
+          "url": "http://codigofacilito.com/courses/VB-NET"
+        },
+        {
+          "title": "Curso de JAVA Básico Gratis",
+          "url": "http://codigofacilito.com/courses/JAVA"
+        },
+        {
+          "title": "Curso de SEO: Aprende a posicionar tu sitio en buscadores",
+          "url": "http://codigofacilito.com/courses/seo"
+        },
+        {
+          "title": "Android + Kinvey (Backend as a service)",
+          "url": "http://codigofacilito.com/courses/android-kinvey"
+        },
+        {
+          "title": "Curso de Introducción a JAVA EE Gratuito",
+          "url": "http://codigofacilito.com/courses/jee"
+        },
+        {
+          "title": "Curso de Git Gratis",
+          "url": "http://codigofacilito.com/courses/git"
+        },
+        {
+          "title": "Curso de diseño para programadores",
+          "url": "http://codigofacilito.com/courses/diseno-basico"
+        },
+        {
+          "title": "Curso de TypeScript",
+          "url": "http://codigofacilito.com/courses/typescript"
+        },
+        {
+          "title": "Curso de introducción y fundamentos de React",
+          "url": "http://codigofacilito.com/courses/react"
+        }
+      ]
+    },
+    "errors": [
+      
+    ]
+  }
